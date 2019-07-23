@@ -68,7 +68,7 @@
         <option value="$PROJECT_DIR$/mat_dat3.js" />
         <option value="$PROJECT_DIR$/shit.js" />
         <option value="$PROJECT_DIR$/mat_dat1.js" />
-        <option value="$PROJECT_DIR$/../Tài Niệu/Demo_flappy_bird/bird.js" />
+        <option value="G:/Tài Niệu/Demo_flappy_bird/bird.js" />
         <option value="$PROJECT_DIR$/2.js" />
         <option value="$PROJECT_DIR$/may1.js" />
         <option value="$PROJECT_DIR$/may2.js" />
@@ -80,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1010" />
@@ -202,24 +202,24 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Run.html" />
-    <entry file="file://$PROJECT_DIR$/../Lập trình Hướng Đối Tượng/Mèo đuổi chuột/Animal.js">
+    <entry file="file://G:/Lập trình Hướng Đối Tượng/Mèo đuổi chuột/Animal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tài Niệu/Demo_flappy_bird/background.js">
+    <entry file="file://G:/Tài Niệu/Demo_flappy_bird/background.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tài Niệu/Demo_flappy_bird/Pipe.js">
+    <entry file="file://G:/Tài Niệu/Demo_flappy_bird/Pipe.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-722">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tài Niệu/Demo_flappy_bird/index.html">
+    <entry file="file://G:/Tài Niệu/Demo_flappy_bird/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
@@ -230,7 +230,7 @@
     <entry file="file://$PROJECT_DIR$/may2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tài Niệu/Demo_flappy_bird/bird.js">
+    <entry file="file://G:/Tài Niệu/Demo_flappy_bird/bird.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
